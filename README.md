@@ -64,5 +64,6 @@ plt.ylabel("Price ($)")
 plt.legend()
 plt.show()
 ```
+## OutPut(For example):
 
 ![chart1](chart1.jpg)
