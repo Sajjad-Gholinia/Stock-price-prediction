@@ -65,3 +65,4 @@ plt.legend()
 plt.show()
 ```
 
+![chart1](chart1.jpg)
